@@ -101,7 +101,7 @@ const Projects = () => {
                   className="w-3 h-3"
                 />
               </a>
-              {/* {currentProject.title ===
+              {currentProject.title ===
               "Signature Integral Solution Inc. - Professional Services Landing Page" ? (
                 <a
                   className="flex items-center gap-2 cursor-pointer text-[var(--color-white-600)]"
@@ -119,7 +119,7 @@ const Projects = () => {
                 </a>
               ) : (
                 <></>
-              )} */}
+              )}
             </div>
           </div>
 
