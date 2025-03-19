@@ -96,7 +96,11 @@ const About = () => {
                 I&apos;m based in Villa Mercedes, San Luis, Argentina, with
                 remote work available.
               </p>
-              <a href="#contact">
+              <a
+                href="https://wa.me/5491165753161"
+                target="_blank"
+                rel="noreferrer"
+              >
                 <Button
                   name="Contact Me"
                   isBeam
